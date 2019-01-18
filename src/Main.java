@@ -26,8 +26,10 @@ public class Main {
         System.out.println("~~~~~~");
         System.out.println("add src/main.java");
         doWork();
+        System.out.println("gitee update");
     }
     public  static void doWork(){
         System.out.println("dododododo");
     }
+
 }
