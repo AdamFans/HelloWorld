@@ -25,5 +25,9 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("~~~~~~");
         System.out.println("add src/main.java");
+        doWork();
+    }
+    public  static void doWork(){
+        System.out.println("dododododo");
     }
 }
